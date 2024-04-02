@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{D683C51D-2AF4-43F2-AD76-E5E0579E7E8B}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Blog2023 PreferredExecutionTarget="/Applications/Yandex.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Blog2023/Controllers/UserController.cs">
+    <Files>
+      <File FileName="Blog2023/Services/AuthorService.cs" />
+      <File FileName="../../../../../usr/local/share/dotnet/sdk/7.0.312/Sdks/Microsoft.NET.Sdk.Razor/targets/Sdk.Razor.CurrentVersion.targets" />
+      <File FileName="Blog2023/Blog2023.csproj" />
+      <File FileName="Blog2023/Services/CommentService.cs" />
+      <File FileName="Blog2023/Data/DTO/UserRegisterDTO.cs" />
+      <File FileName="Blog2023/Data/DTO/createNewAuthor.cs" />
+      <File FileName="Blog2023/Data/DTO/AuthorDTO.cs" />
+      <File FileName="Blog2023/Controllers/AuthorController.cs" />
+      <File FileName="Blog2023/Services/Interfaces/IAuthorService.cs" />
+      <File FileName="Blog2023/Controllers/PostController.cs" />
+      <File FileName="Blog2023/Data/DTO/UserLoginDTO.cs" />
+      <File FileName="Blog2023/Services/AuthService.cs" Line="100" Column="13" />
+      <File FileName="Blog2023/Controllers/UserController.cs" Line="90" Column="12" />
+      <File FileName="Blog2023/Services/TokenService.cs" Line="20" Column="38" />
+      <File FileName="Blog2023/Services/Interfaces/ITokenService.cs" Line="7" Column="11" />
+      <File FileName="Blog2023/Data/Models/User.cs" Line="7" Column="18" />
+      <File FileName="Blog2023/Data/ApplicationDbContext.cs" Line="18" Column="25" />
+      <File FileName="Blog2023/Data/Models/Token.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Blog2023" expanded="True">
+            <Node name="Blog2023" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="UserController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True">
+                <Node name="DTO" expanded="True" />
+                <Node name="Models" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
